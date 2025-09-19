@@ -30,7 +30,8 @@ print(arr[i+1])
     break
 
 OUTPUT
-![Uploading 491458587-bd7dce3b-efb2-46df-9166-b3ceaae50d7e.jpg…]()
+
+![491458587-bd7dce3b-efb2-46df-9166-b3ceaae50d7e](https://github.com/user-attachments/assets/43071b4c-11b8-4855-8768-94e7c4e3f634)
 
 
 RESULT
