@@ -20,8 +20,27 @@ To write a Python program that takes a list of scores from participants and find
 
 ## 💻 PROGRAM:
 
-ADD CODE HERE
+n = int(input())
+
+arr = list(map(int, input().split()))
+
+arr.sort()
+
+large=arr[-1]
+
+arr.reverse()
+
+for i in range(len(arr)-1):
+
+if arr[i+1]<arr[i]:
+
+print(arr[i+1])
+    break
 
 ## OUTPUT
+![491458587-bd7dce3b-efb2-46df-9166-b3ceaae50d7e](https://github.com/user-attachments/assets/839722fb-6abf-41cb-a06c-05505df46e9c)
+
+
 
 ## RESULT
+Thus the program is excuted and verified.
